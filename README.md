@@ -1,7 +1,9 @@
 
-🎈 初级前端工程师
+🎈 初级前端开发工程师
 
-💝 无产阶级
+🤷‍♂️ 入门级空想主义实践者
+
+🍉 冰饮料爱好者
 
 [![Deshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfh1999)](https://github.com/lfh1999)
 
